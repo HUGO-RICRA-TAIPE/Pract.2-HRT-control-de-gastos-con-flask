@@ -29,7 +29,7 @@ El sistema cuenta con un módulo de inicio de sesión protegido mediante sesione
 * **Usuario por defecto:** `admin`
 * **Clave:** `123`
 
-![Pantalla de Login](screenshots/login.jpeg)
+![Pantalla de Login](screenshots/login.png)
 
 ### 2. Registro de Gastos
 Una vez autenticado, el usuario accede al panel principal donde puede registrar nuevos gastos ingresando:
